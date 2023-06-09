@@ -1,2 +1,2 @@
-[master 886675b] creating 1-who_am_i
- 1 file changed, 2 insertions(+), 3 deletions(-)
+#!/bin/bash
+id
